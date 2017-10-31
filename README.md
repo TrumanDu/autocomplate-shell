@@ -4,6 +4,9 @@
  
 This extension adds rich language support for the shell script to VS Code, including:
 
+## How to use?
+
+![](images/demo.gif)
 ## Basic code
 
 - if/elif/else
@@ -12,6 +15,11 @@ This extension adds rich language support for the shell script to VS Code, inclu
 - function
 - case expr
 - test int/string/file
+
+## Bash variables and functions
+
+An autocomplete for common used bash variables and functions. Docs are from 
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 ## Package
 
@@ -22,12 +30,23 @@ This extension adds rich language support for the shell script to VS Code, inclu
 
 The easiest way is to start a git issue, I will attempt to answer ASAP else I hope someone else will answer.
 
-## License
+# License
 
 MIT License, refer to license file.
 
 # Source
 
 [Github](https://github.com/trumandu/autocomplate-shell)
+
+
+# Declaration
+
+This project refers to two other projects:
+
+- Atom Package [autocomplete-bash-builtins](https://github.com/JASONews/autocomplete-bash-builtins)
+
+- [shell-snippets](https://github.com/cdsama/shell-snippets)
+
+Thanks for the owner!
 
 ** Enjoy!**
