@@ -6,7 +6,7 @@ This extension adds rich language support for the shell script to VS Code, inclu
 
 ## How to use?
 
-[demo](https://github.com/TrumanDu/autocomplate-shell)
+![](images/demo.gif)
 ## Basic code
 
 - if/elif/else
