@@ -2,7 +2,7 @@
 	"name": "autocomplate-shell",
 	"displayName": "AutoComplate shell",
 	"description": "AutoComplate shell script",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "truman",
 	"icon": "images/logo.png",
 	"engines": {
