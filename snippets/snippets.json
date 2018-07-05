@@ -1,12 +1,12 @@
 {
     "bash":{
         "prefix": "bash",
-        "body": "#!/bin/bash\n",
+        "body": "#!/usr/bin/env bash\n",
         "description": "executer"
     },
     "sh":{
         "prefix": "sh",
-        "body": "#!/bin/sh\n",
+        "body": "#!/usr/bin/env sh\n",
         "description": "executer"
     },
     "echo":{
