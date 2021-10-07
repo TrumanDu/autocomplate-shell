@@ -1,7 +1,7 @@
 {
-	"name": "autocomplate-shell",
-	"displayName": "AutoComplate shell",
-	"description": "AutoComplate shell script",
+	"name": "autocomplete-shell",
+	"displayName": "autocomplete shell",
+	"description": "autocomplete shell script",
 	"version": "0.1.1",
 	"publisher": "truman",
 	"icon": "images/logo.png",

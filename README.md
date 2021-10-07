@@ -1,6 +1,6 @@
 # README
 
-## Visual Studio Code autocomplate-shell
+## Visual Studio Code autocomplete-shell
  
 This extension adds rich language support for the shell script to VS Code, including:
 
@@ -36,7 +36,7 @@ MIT License, refer to license file.
 
 # Source
 
-[Github](https://github.com/trumandu/autocomplate-shell)
+[Github](https://github.com/trumandu/autocomplete-shell)
 
 
 # Declaration
